@@ -1,0 +1,2 @@
+import{A as r}from"./index.fafb5ba6.js";import"./index.5bb7f46d.js";import"./iframe.f2725dcd.js";import"./index.1d213d52.js";import"./jsx-runtime.91dec14b.js";const i={title:"Data display/Avatar",component:r,args:{src:"https://github.com/henriquekramer.png",alt:"Henrique Kramer"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.3edf5a7f.js.map
